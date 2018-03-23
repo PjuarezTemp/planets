@@ -4,3 +4,10 @@ and a lonely rover singing happy birthday
 git git git git GIT GIT GIT GIT 
 swhmarsma 
 terafghfsdf
+
+git init
+to save: git add -> git commit
+
+revert -> git checkout
+git diff -> find differences
+git log -> all the commits
