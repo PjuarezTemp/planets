@@ -13,3 +13,4 @@ to save: git add -> git commit
 revert -> git checkout
 git diff -> find differences
 git log -> all the commits
+changes
